@@ -153,6 +153,3 @@ http://localhost:5173
 ## 👩‍💻 Author
 
 **Akriti Gupta**
-
-BTech IT (AI & ML)
-Full Stack Developer | Machine Learning Enthusiast
